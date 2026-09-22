@@ -21,3 +21,4 @@ Part of the Technical team at E-Cell MVSR. Interested in hackathons and hands-on
 
 ### Connect
 - GitHub: https://github.com/PrachiS28
+- LinkedIn: https://www.linkedin.com/in/prachi-sonis-682002439
